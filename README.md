@@ -1,7 +1,5 @@
-**texto en negritas**
-Estudiante de la UPA aprendiendo a programar 😃🤖
-
-
+**Estudiante de la UPA aprendiendo a programar** 😃🤖
+https://www.bing.com/search?q=UPA&form=ANNTH1&refig=6a01fabd2a9a4c0d95b3714f7d577efd&pc=NMTS 
 <!--
 **up250593raca/up250593raca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
